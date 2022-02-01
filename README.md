@@ -33,7 +33,7 @@ Follow the instructions provided by [Colin Hickey](https://www.youtube.com/watch
    ```
    2. docker run example
    ```
-    docker run --rm -it -v $(pwd)/config/:/opt/epever/config/config.yml \
+    docker run --rm -it -v $(pwd)/config/:/opt/epever/config/ \
     -e ESP_LINK_TCP_ADDR=192.168.253.250:23 \
     cjj25/solar-epever-homeassistant-esplink:latest    
    ```
