@@ -40,6 +40,7 @@ Follow the instructions provided by [Colin Hickey](https://www.youtube.com/watch
 
 
 Preview (more sensors available)
+
 ![EPEver in Home Assistant](https://i.imgur.com/yvNFi1G.png) 
 
 ## Background
