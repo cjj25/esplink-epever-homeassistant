@@ -37,6 +37,7 @@ Follow the instructions provided by [Colin Hickey](https://www.youtube.com/watch
     -e ESP_LINK_TCP_ADDR=192.168.253.250:23 \
     cjj25/solar-epever-homeassistant-esplink:latest    
    ```
+   3. kubernetes - [example here](examples/solar.yaml)
 
 
 Preview (more sensors available)
